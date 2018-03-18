@@ -1,7 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67ad22e9-aaf0-4650-bcab-e99c960017d4" name="Default" comment="" />
+    <list default="true" id="67ad22e9-aaf0-4650-bcab-e99c960017d4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/koans.test.iml" afterPath="$PROJECT_DIR$/.idea/modules/koans.test.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson1/lesson1.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson1/lesson1.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson1/task1/lesson1-task1.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson1/task1/lesson1-task1.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson1/task10/lesson1-task10.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson1/task10/lesson1-task10.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson1/task11/lesson1-task11.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson1/task11/lesson1-task11.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson1/task12/lesson1-task12.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson1/task12/lesson1-task12.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson1/task13/task13.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson1/task13/task13.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson1/task2/lesson1-task2.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson1/task2/lesson1-task2.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson1/task3/lesson1-task3.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson1/task3/lesson1-task3.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson1/task4/lesson1-task4.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson1/task4/lesson1-task4.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson1/task5/lesson1-task5.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson1/task5/lesson1-task5.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson1/task6/lesson1-task6.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson1/task6/lesson1-task6.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson1/task7/lesson1-task7.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson1/task7/lesson1-task7.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson1/task8/lesson1-task8.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson1/task8/lesson1-task8.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson1/task9/lesson1-task9.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson1/task9/lesson1-task9.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson2/lesson2.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson2/lesson2.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson2/task1/lesson2-task1.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson2/task1/lesson2-task1.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson2/task2/lesson2-task2.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson2/task2/lesson2-task2.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson2/task3/lesson2-task3.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson2/task3/lesson2-task3.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson2/task4/lesson2-task4.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson2/task4/lesson2-task4.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson2/task5/lesson2-task5.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson2/task5/lesson2-task5.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson2/task6/lesson2-task6.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson2/task6/lesson2-task6.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson2/task7/lesson2-task7.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson2/task7/lesson2-task7.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson3/lesson3.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson3/lesson3.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson3/task1/lesson3-task1.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson3/task1/lesson3-task1.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson3/task10/lesson3-task10.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson3/task10/lesson3-task10.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson3/task11/lesson3-task11.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson3/task11/lesson3-task11.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson3/task12/lesson3-task12.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson3/task12/lesson3-task12.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson3/task2/lesson3-task2.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson3/task2/lesson3-task2.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson3/task3/lesson3-task3.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson3/task3/lesson3-task3.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson3/task4/lesson3-task4.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson3/task4/lesson3-task4.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson3/task5/lesson3-task5.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson3/task5/lesson3-task5.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson3/task6/lesson3-task6.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson3/task6/lesson3-task6.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson3/task7/lesson3-task7.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson3/task7/lesson3-task7.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson3/task8/lesson3-task8.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson3/task8/lesson3-task8.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson3/task9/lesson3-task9.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson3/task9/lesson3-task9.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson4/lesson4.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson4/lesson4.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson4/task1/lesson4-task1.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson4/task1/lesson4-task1.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson4/task2/lesson4-task2.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson4/task2/lesson4-task2.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson4/task3/lesson4-task3.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson4/task3/lesson4-task3.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson4/task4/lesson4-task4.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson4/task4/lesson4-task4.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson5/lesson5.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson5/lesson5.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson5/task1/lesson5-task1.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson5/task1/lesson5-task1.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson5/task2/lesson5-task2.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson5/task2/lesson5-task2.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson5/task3/lesson5-task3.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson5/task3/lesson5-task3.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson5/task4/lesson5-task4.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson5/task4/lesson5-task4.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson5/task5/lesson5-task5.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson5/task5/lesson5-task5.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson6/lesson6.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson6/lesson6.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson6/task1/lesson6-task1.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson6/task1/lesson6-task1.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/util/util.iml" afterPath="$PROJECT_DIR$/.idea/modules/util/util.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/study_project.xml" afterPath="$PROJECT_DIR$/.idea/study_project.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,18 +78,21 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Task.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lesson1/task5/src/Task.kt">
+        <entry file="file://$PROJECT_DIR$/lesson1/task10/src/Task.kt">
           <provider selected="true" editor-type-id="StudyEditor">
-            <state relative-caret-position="45">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="60">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -8434,6 +8492,13 @@
       <projects_view />
     </option>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lesson1/task9/src/Task.kt" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1680" />
@@ -8455,25 +8520,29 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Kotlin Koans1" />
+              <option name="myItemId" value="koans.test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Kotlin Koans1" />
+              <option name="myItemId" value="Kotlin-Course" />
               <option name="myItemType" value="com.jetbrains.edu.learning.projectView.CourseNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Kotlin Koans1" />
+              <option name="myItemId" value="koans.test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Kotlin Koans1" />
+              <option name="myItemId" value="Kotlin-Course" />
               <option name="myItemType" value="com.jetbrains.edu.learning.projectView.CourseNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -8481,17 +8550,52 @@
               <option name="myItemType" value="com.jetbrains.edu.learning.projectView.LessonNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="koans.test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Kotlin-Course" />
+              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.CourseNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson1" />
+              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.LessonNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.TaskNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="koans.test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Kotlin-Course" />
+              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.CourseNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson1" />
+              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.LessonNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.TaskNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="android.project.structure.last.selected" value="Project" />
+    <property name="android.project.structure.proportion" value="0.15" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -8530,6 +8634,97 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+      </Profilers>
+      <method />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -8542,6 +8737,89 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="koans.test" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
       <envs />
       <method />
     </configuration>
@@ -8614,35 +8892,36 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25274727" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Task Description" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Task Description" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -8653,11 +8932,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lesson1/task5/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="0">
+          <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lesson1/task1/src/Task.kt">
       <provider selected="true" editor-type-id="StudyEditor">
         <state relative-caret-position="15">
           <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -8665,7 +8951,6 @@
       <provider selected="true" editor-type-id="StudyEditor">
         <state relative-caret-position="60">
           <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -8673,7 +8958,6 @@
       <provider selected="true" editor-type-id="StudyEditor">
         <state relative-caret-position="15">
           <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -8681,14 +8965,53 @@
       <provider selected="true" editor-type-id="StudyEditor">
         <state relative-caret-position="120">
           <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson1/task5/src/Task.kt">
       <provider selected="true" editor-type-id="StudyEditor">
         <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task6/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="45">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task7/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task8/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="45">
+          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task9/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task10/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>

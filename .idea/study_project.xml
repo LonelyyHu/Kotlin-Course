@@ -426,7 +426,7 @@
                     <EduTask>
                       <option name="index" value="6" />
                       <option name="name" value="Strings" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="234725" />
                       <option name="stepikPosition" value="0" />
                       <option name="taskTexts">
@@ -500,7 +500,7 @@
                     <EduTask>
                       <option name="index" value="7" />
                       <option name="name" value="Data classes" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="234726" />
                       <option name="stepikPosition" value="0" />
                       <option name="taskTexts">
@@ -574,7 +574,7 @@
                     <EduTask>
                       <option name="index" value="8" />
                       <option name="name" value="Nullable types" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="234727" />
                       <option name="stepikPosition" value="0" />
                       <option name="taskTexts">
@@ -648,7 +648,7 @@
                     <EduTask>
                       <option name="index" value="9" />
                       <option name="name" value="Smart casts" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="234728" />
                       <option name="stepikPosition" value="0" />
                       <option name="taskTexts">
@@ -741,7 +741,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="-1" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />
@@ -757,7 +757,7 @@
                     <EduTask>
                       <option name="index" value="10" />
                       <option name="name" value="Extension functions" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="234729" />
                       <option name="stepikPosition" value="0" />
                       <option name="taskTexts">
